@@ -116,6 +116,10 @@
   h2 {
     font-size: 3rem;
   }
+   /* ========== 3. main_part start ========== */
+  #main_part .main_content {
+    padding-top: 15rem;
+  }
   /* ========== 12. footer_part start ========== */
   #footer_part form span {
     padding: 15px 50px;
