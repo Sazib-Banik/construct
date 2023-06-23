@@ -1,0 +1,157 @@
+@media (max-width: 1399.98px) {
+  /* ========== 3. main_part start ========== */
+  #main_part .main_content {
+    padding-top: 12rem;
+  }
+  /* ========== 5. service_part start ========== */
+
+  .service-right h2 {
+    padding-bottom: 0.5rem;
+  }
+  .service-item {
+    margin-top: 2rem;
+  }
+  /* ========== 9. team_part start ========== */
+  .team-item {
+    padding: 50px 35px;
+  }
+}
+@media (max-width: 1199.98px) {
+  html {
+    font-size: 55%;
+  }
+  ol,
+  ul {
+    padding-left: 0;
+  }
+  /* h1 {
+    font-size: 6rem;
+  } */
+  /* ========== 3. main_part start ========== */
+  #main_part .main_content {
+    padding-top: 25rem;
+  }
+  #main_part .owl-carousel .owl-nav button.owl-prev {
+    left: -20rem !important;
+  }
+  #main_part .owl-carousel .owl-nav button.owl-next {
+    right: -20rem !important;
+  }
+  /* ========== 9. team_part start ========== */
+  .team-item .team-item-img {
+    width: 90px;
+    height: 100px;
+    margin-right: 10px;
+  }
+  .team-item .social-links li {
+    width: 25px;
+    margin: 3px;
+  }
+}
+@media (max-width: 991.98px) {
+  h1 {
+    font-size: 5rem;
+  }
+  /* ========== 2. nav_part start ========== */
+  .menu_part .nav-item {
+    margin-left: 0rem;
+  }
+  /* ========== 3. main_part start ========== */
+  #main_part .owl-carousel .owl-nav button.owl-prev {
+    left: -15rem !important;
+  }
+  #main_part .owl-carousel .owl-nav button.owl-next {
+    right: -15rem !important;
+  }
+  /* ========== 5. _part start ========== */
+  .service-right {
+    margin-top: 3rem;
+  }
+  /* ========== 6. counter_part start ========== */
+  .counter-item h3 {
+    height: 55px;
+  }
+  /* ========== 9. team_part start ========== */
+  .team-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .team-item .team-item-img {
+    margin-right: 0px;
+    margin-bottom: 1rem;
+  }
+}
+@media (max-width: 767.98px) {
+  h1 {
+    font-size: 4rem;
+  }
+  /* ========== 3. main_part start ========== */
+  #main_part .owl-carousel .owl-nav button.owl-prev {
+    left: -12rem !important;
+  }
+  #main_part .owl-carousel .owl-nav button.owl-next {
+    right: -12rem !important;
+  }
+
+  /* ========== 6. counter_part start ========== */
+  .counter-item {
+    margin-top: 2rem;
+  }
+  .counter-item h3 {
+    height: 26px;
+  }
+  /* ========== 9. team_part start ========== */
+  .team-item {
+    margin-bottom: 2rem;
+  }
+  /* ========== 10. testimonial_part start ========== */
+  .testimonial-carousel .item {
+    padding: 40px 50px;
+    background-color: #ffffff;
+    border-radius: 7px;
+  }
+}
+@media (max-width: 575.98px) {
+  h2 {
+    font-size: 3rem;
+  }
+  /* ========== 12. footer_part start ========== */
+  #footer_part form span {
+    padding: 15px 50px;
+  }
+}
+@media (max-width: 430px) {
+  /* ========== 5. service_part start ========== */
+  .service-item-img {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+  }
+}
+@media (max-width: 412px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .theme-btn {
+    padding: 10px 50px;
+  }
+  /* ========== 1. header_part start ========== */
+  #header_part span {
+    margin-right: 0rem;
+  }
+  /* ========== 5. service_part start ========== */
+  .service-item-img {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+  }
+  /* ========== 10. testimonial_part start ========== */
+  .testimonial-carousel .item {
+    padding: 30px 35px;
+  }
+  /* ========== 12. footer_part start ========== */
+  #footer_part form span {
+    padding: 15px 30px;
+  }
+}
